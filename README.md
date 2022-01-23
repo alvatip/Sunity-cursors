@@ -3,7 +3,7 @@
 	<img src="./art/logo.png" alt="Nordzy-cursors logo">
 </p>
 
-Cursor theme using a custom color palette and based on Breeze and Radioactive cursors themes.
+Cursor theme using a custom color palette and based on Breeze and [Radioactive](https://github.com/alvatip/Radioactive) cursors themes.
 
 ## Preview
 

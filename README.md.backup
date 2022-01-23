@@ -39,12 +39,6 @@ For system-wide installation:
 tar -zxvf Sunity-cursors.tar.gz -C /usr/share/icons/
 tar -zxvf Sunity-cursors-white.tar.gz -C /usr/share/icons/
 ```
-### Also available on Pling
-<p align="left">
-  <a href="https://www.pling.com/p/1571937/" >
-    <img title="Nordzy-cursors Pling Store" width="25%" src="https://imgur.com/VxSgrWw.png">
-  </a>
-</p>
 
 ### Set the cursor theme
 There are various way to set this (or another) cursor theme.</br>
@@ -67,7 +61,7 @@ If you have any issues, report them [here](https://github.com/alvatip/Sunity-cur
 ##  How can I help ?
 
 * By giving a **star** or **follow** on GitHub.
-* By **rating** it on [Pling](https://www.pling.com/p/1571937/)
+* By **rating** it on Pling
 * By participating to the project, creating PR, making suggestion, ...
 
 ## Licence
