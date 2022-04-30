@@ -39,12 +39,6 @@ For system-wide installation:
 tar -zxvf Sunity-cursors.tar.gz -C /usr/share/icons/
 tar -zxvf Sunity-cursors-white.tar.gz -C /usr/share/icons/
 ```
-## Windows
-
-To install the cursor theme on windows: 
-1. Download "nordzy_cursors_windows.zip"
-2. Extract the .zip file
-3. In the folder, right click on the file "install.inf" and in the option choose "install"
 
 ### Set the cursor theme
 There are various way to set this (or another) cursor theme.</br>
@@ -59,6 +53,12 @@ And if you installed it system-wide use:
 ```
 sudo rm -r /usr/share/icons/Sunity-cursors*
 ```
+## Windows
+
+To install the cursor theme on windows: 
+1. Download "nordzy_cursors_windows.zip"
+2. Extract the .zip file
+3. In the folder, right click on the file "install.inf" and in the option choose "install"
 
 ##  Issues
 
