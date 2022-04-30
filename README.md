@@ -60,6 +60,13 @@ To install the cursor theme on windows:
 2. Extract the .zip file
 3. In the folder, right click on the file "install.inf" and in the option choose "install"
 
+## Also available on Pling
+<p align="left">
+  <a href="https://www.pling.com/p/1703043">
+    <img title="Sunity-cursors Pling Store" width="25%" src="https://imgur.com/VxSgrWw.png">
+  </a>
+</p>
+
 ##  Issues
 
 If you have any issues, report them [here](https://github.com/alvatip/Sunity-cursors/issues), I will be happy to help you!
